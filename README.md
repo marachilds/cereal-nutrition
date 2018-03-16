@@ -1,1 +1,1 @@
-# cereal-nutrition
+My application charts cereal ratings against a nutritional value with color and size determined by other nutritional values. My project can be found [here](https://marachilds.shinyapps.io/a8-building-apps-marachilds/)
